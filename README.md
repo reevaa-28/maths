@@ -1,5 +1,5 @@
-#math function in python 
-
+#functions in python
+#math
 import math
 
 math.sqrt(25)
